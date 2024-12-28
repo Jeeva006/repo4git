@@ -1,0 +1,3 @@
+## version 1
+def same(x):
+    return x
