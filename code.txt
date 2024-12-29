@@ -1,6 +1,4 @@
-## version 2
-def same(x):
-    return x
+## Commitment from Github - version 3
 
-def multiply(x,y):
-    return x*y
+def commit():
+   pass
