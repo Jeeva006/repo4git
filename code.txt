@@ -1,5 +1,3 @@
 ## commitment from person 2
-## Version 1
-
 def commit():
    pass
